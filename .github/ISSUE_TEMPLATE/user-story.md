@@ -19,4 +19,4 @@ assignees: ''
 ```gherkin 
 Given [some context]
 When [certain action is taken]
-Tjhen [the outcomeof action is observed]```
+Then [the outcome of action is observed]```
